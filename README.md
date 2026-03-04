@@ -14,7 +14,7 @@ The goal of this portfolio is simple:
 
 > **Deliver a clean, modern, high-performance experience that reflects how I build software: scalable, efficient, and user-focused.**
 
-     Designed from scratch using industry-leading best practices.
+   Designed from scratch using industry-leading best practices.
 
 <br/>
 
