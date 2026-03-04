@@ -6,7 +6,6 @@
 </p>
 
 <br/>
-
 ## 📌 Overview
 
 This repository contains the source code for my personal developer portfolio — a fully responsive, production-grade website showcasing my work, technical skills, professional experience, and impact across Alberta’s growing technology ecosystem.
@@ -15,7 +14,7 @@ The goal of this portfolio is simple:
 
 > **Deliver a clean, modern, high-performance experience that reflects how I build software: scalable, efficient, and user-focused.**
 
-Designed from scratch using industry-leading best practices.
+     Designed from scratch using industry-leading best practices.
 
 <br/>
 
@@ -65,8 +64,8 @@ Looks great on large monitors, laptops, tablets, and phones.
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/neelam-portfolio.git
-cd harsimar-portfolio
+git clone https://github.com/<your-username>/Neelam-Portfolio.git
+cd Neelam-Portfolio
 ````
 
 Install dependencies:
@@ -183,5 +182,5 @@ This project is licensed under the MIT License — feel free to explore, learn, 
 
 </div>
 ```
-Notes
-This portfolio is actively maintained and updated as new projects are completed.
+  Notes
+         This portfolio is actively maintained and updated as new projects are completed.
