@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Neelam Dhull — Software Developer Portfolio</h1>
+<h1 align="center">🚀 Neelam Dhull — Full Stack Developer Portfolio</h1>
 
 <p align="center">
   Built with <strong>Next.js 14</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong> <br/>
