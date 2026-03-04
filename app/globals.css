@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-slate-950 text-slate-200;
+}
+
+/* Optional: selection styling */
+::selection {
+  @apply bg-accent-400/30 text-white;
+}
