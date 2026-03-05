@@ -5,7 +5,7 @@ const experiences: Experience[] = [
   {
     company: "F5 Web Solutions",
     role: "Full Stack Developer",
-    category : "Full-Time",
+    type: "Full-Time",
     period: "Jun 2024 - Jan 2025",
     location: "Calgary, Alberta",
     achievements: [
@@ -31,7 +31,7 @@ const experiences: Experience[] = [
   {
     company: "SalezShark India ",
     role: "Full Stack Developer",
-    category: "Full-Time",
+    type: "Full-Time",
     period: "Jan 2022 - April 2024",
     location: "Greater Noida, Uttar Pradesh, India",
     achievements: [
