@@ -4,7 +4,7 @@ const skillGroups = [
   {
     category: "Languages",
     icon: <Terminal className="w-5 h-5 text-indigo-400" />,
-    items: ["JavaScript (ES6+)", "TypeScript", "Java", "SQL", "HTML5", "CSS3"]
+    items: ["JavaScript (ES6+)", "TypeScript", "Java", "Python","SQL", "HTML5", "CSS3"]
   },
   {
     category: "Frameworks & Libraries",
